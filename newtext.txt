@@ -1,2 +1,3 @@
 new code file
 i am trying to understand git
+this is interestiong
